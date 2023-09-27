@@ -9,8 +9,7 @@ import Graphs from './components/Graphs';
 function App() {
   return (
     <div>
-      <Header />
-      <h1>AllForOne</h1>
+      <Header />      
       <BrowserRouter>
         <div className='container p-4'>
           <Routes>
